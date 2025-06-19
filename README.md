@@ -1,2 +1,2 @@
 # Pinterest-Clone
-Cloning Pinterest Website
+-Cloning Pinterest Website
