@@ -7,7 +7,7 @@ async function main() {
 }
 
 async function getData() {
-    const data = await fetch(`http://127.0.0.1:3000/data/`);
+    const data = await fetch(`http://192.168.0.108:3000/data/`);
     const info = await data.text();
     return info;
 }
